@@ -5,8 +5,8 @@
 # Temperature and Humidity sensor (SHT31) #
 # to a Raspberry Pi over i2c and converts #
 # the data to celcius and percentage      #
-# requires smbus to be installed:         #
-# sudo apt-get install smbus              #   
+# requires python-smbus to be installed:  #
+# sudo apt-get install python-smbus       #   
 ###########################################
 
 #import the required libraries
